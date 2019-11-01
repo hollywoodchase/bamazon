@@ -104,7 +104,5 @@ function afterConnection() {
                     }
                 });
         });
-
-
-
+        module.export({products});
 }
